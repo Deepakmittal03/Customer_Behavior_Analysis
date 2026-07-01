@@ -7,7 +7,7 @@ This project was completed as part of a Data Analytics Internship and focuses on
 By leveraging Python and various data analysis libraries, the project explores customer purchasing trends, sales performance, return patterns, and demographic behavior through comprehensive Exploratory Data Analysis (EDA) and data visualization techniques.
 
 ---
-
+ 
 ## 🎯 Objectives
 
 - Clean and preprocess customer transaction datasets
