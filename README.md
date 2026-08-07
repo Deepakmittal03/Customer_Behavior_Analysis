@@ -8,7 +8,7 @@ By leveraging Python and various data analysis libraries, the project explores c
 
 --- 
     
-## 🎯 Objectives
+## 🎯 Objectives 
 
 - Clean and preprocess customer transaction datasets
 - Merge and organize data from multiple sources
