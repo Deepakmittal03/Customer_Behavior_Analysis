@@ -10,7 +10,7 @@ By leveraging Python and various data analysis libraries, the project explores c
     
 ## 🎯 Objectives  
 
-- Clean and preprocess customer transaction datasets
+- Clean and preprocess customer transaction datasets 
 - Merge and organize data from multiple sources 
 - Perform Exploratory Data Analysis (EDA) 
 - Identify purchasing trends and customer preferences 
